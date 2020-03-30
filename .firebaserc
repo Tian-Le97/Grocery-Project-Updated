@@ -1,6 +1,5 @@
 {
   "projects": {
-    "default": "fir-tutorial-f3377",
-    "assignment9": "assignment9-project"
+    "default": "assignment9-project",
   }
 }
